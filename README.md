@@ -1,6 +1,9 @@
 # Dreame Gen3 FEL u-boot tools
 
-Tools for working with the custom fastboot u-boot used in the Dreame Gen3 robot rooting method (L10s Ultra / D10s / X40 and other MR813-based models, see dontvacuum.me). 
+Tools for working with the custom fastboot u-boot used in the Dreame Gen3 robot rooting method (L10s Ultra / D10s / X40 and other MR813-based models).
+
+Tools are helpful to root "unsupported" robots, recover bricked devices with decrypted backups, strip excess user data from submissions to [check.builder.dontvacuum.me](https://check.builder.dontvacuum.me/)
+
 ## Tools
 
 ### decrypt.py — decrypt/encrypt flash dumps
